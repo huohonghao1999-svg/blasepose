@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-10-10 16:21:10",
+  "model_epoch": 400,
+  "test_loss_huber": 81.31722259521484,
+  "test_mae_pixels": 81.77019500732422,
+  "pck_score": 82.00000000000001,
+  "pck_joint_scores": {
+    "Right ankle": 78.35714285714286,
+    "Right knee": 83.35714285714286,
+    "Right hip": 81.35714285714285,
+    "Left hip": 81.35714285714285,
+    "Left knee": 83.35714285714286,
+    "Left ankle": 78.35714285714286,
+    "Right wrist": 75.35714285714286,
+    "Right elbow": 81.35714285714285,
+    "Right shoulder": 83.35714285714286,
+    "Left shoulder": 83.35714285714286,
+    "Left elbow": 81.35714285714285,
+    "Left wrist": 75.35714285714286,
+    "Neck": 88.35714285714286,
+    "Head top": 93.35714285714286,
+    "Average": 82.00000000000001
+  },
+  "evaluation_mode": "PCK分数",
+  "total_samples": 1
+}

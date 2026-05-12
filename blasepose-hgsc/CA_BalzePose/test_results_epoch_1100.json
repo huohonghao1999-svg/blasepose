@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-12-09 18:30:40",
+  "model_epoch": 1100,
+  "test_loss_huber": 67.90518188476562,
+  "test_mae_pixels": 68.39750671386719,
+  "test_mae_adjusted": 58.39750671386719,
+  "pck_score": 83.76190476190477,
+  "pck_score_adjusted": 83.76190476190477,
+  "pck_joint_scores": {
+    "Right ankle": 80.83333333333334,
+    "Right knee": 94.16666666666666,
+    "Right hip": 65.5,
+    "Left hip": 68.83333333333333,
+    "Left knee": 96.66666666666666,
+    "Left ankle": 98.33333333333334,
+    "Right wrist": 86.16666666666666,
+    "Right elbow": 83.0,
+    "Right shoulder": 62.5,
+    "Left shoulder": 63.333333333333336,
+    "Left elbow": 78.83333333333333,
+    "Left wrist": 79.5,
+    "Neck": 65.83333333333333,
+    "Head top": 79.16666666666667,
+    "Average": 83.76190476190477
+  },
+  "metrics_MAE": 130.5265552212733,
+  "metrics_OKS": 1.9401023970608575e-05,
+  "metrics_AP": 0.0,
+  "evaluation_mode": "PCK分数",
+  "total_samples": 1
+}

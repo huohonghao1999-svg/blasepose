@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-10-10 16:20:24",
+  "model_epoch": 400,
+  "test_mae_pixels": 108.62670735120516,
+  "pck_score": 0.0,
+  "coordinate_fix_applied": true,
+  "total_samples": 100
+}
